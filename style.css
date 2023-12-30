@@ -1,0 +1,183 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+a {
+    color: black;
+}
+
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+#headl1{
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration-line: underline;
+}
+
+#menul1 ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    margin-top: 13px;
+}
+
+#menul1 li{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;  
+}
+
+#textl2{
+    font-family: poppins;
+    padding-top: 48px;
+}
+
+h1{
+    font-size: 29px;
+}
+
+p{
+    font-size: 9px;
+    font-family: poppins;
+    line-height: 18px;
+    color: #575455;
+}
+
+button{
+    margin-top: 10px;
+    background-color: #1F7CFF;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    padding: 5px;
+    font-size: 9px;
+    width: 110px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.but:hover{
+    transform: translateY(-5px);
+    transition-duration: 0,8s;
+}
+
+#photol2 img{
+    width: 350px;
+    margin-left: 10px;
+}
+
+#photol2{
+    margin-top: 50px;
+
+}
+
+.logol3{
+    text-align: center;
+}
+
+#clientsl3{
+    margin-top: 40px;
+}
+
+#clientsl3 img{
+    height: 17px;
+    margin-right: 0px;
+}
+
+#clientsl3 p{
+    margin-top: -1px;
+    font-size: 8px;
+    font-weight: normal;
+}
+
+#servicesl4{
+    margin-top: 55px;
+    text-align: center;
+    font-family: poppins;
+}
+
+.red{
+    color: #F75C4E;
+    margin-bottom: -14px;
+    font-weight: 510;
+}
+
+h2{
+    font-size: 21px;
+    margin-bottom: 14px;
+    font-family: poppins;
+}
+
+#servicesl5 img{
+    height: 38px;
+    margin-top: 25px;
+}
+
+#servicesl5 {
+    text-align: center;
+    font-family: poppins;
+}
+
+#servicesl5 h6 {
+    margin-top: 15px;
+}
+
+#servicesl5 p {
+    margin-top: -20px;
+}
+
+#photol6 img{
+    width: 380px;
+    margin-right: 10px;
+}
+
+#photol6{
+    margin-top: 35px;
+}
+
+#emaill6{
+    font-family: poppins;
+    margin-left: 30px;
+    margin-top: 75px;
+}
+
+#mailbox{
+    height: 25px;
+    width: 225px;
+    border: none;
+    background-color: #F5F6FB;
+    border-radius: 15px;
+    margin-top: 15px;
+    padding-left: 20px;
+}
+
+#Enviar{
+    width: 90px;
+    margin-top: 13px;
+}
+
+#portTextl7{
+    margin-top: 60px;
+}
+
+#PortImgl8 img {
+    width: 180px;
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+
+#PortImgl8 {
+    margin-bottom: 0px;
+    padding-right: 0px;
+}
